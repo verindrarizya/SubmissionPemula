@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Planets</string>
+    <string name="detail">Detail</string>
+    <string name="picture_of_a_planet_placeholder">Picture of a planet</string>
+    <string name="about_me">About Me</string>
+    <string name="name">Verindra Rizya Albahar Sejati</string>
+    <string name="planet_list">Planet List</string>
+    <string name="profile_email">v.rizya22@gmail.com</string>
+    <string name="my_profile">profile</string>
+    <string name="planets_by_verindra_rizya">Planets by Verindra Rizya</string>
+</resources>
